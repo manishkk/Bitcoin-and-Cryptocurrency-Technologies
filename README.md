@@ -1,9 +1,9 @@
 # Bitcoin-and-Cryptocurrency-Technologies
 Bitcoin and Cryptocurrency Technologies by Princeton University (https://www.coursera.org/learn/cryptocurrency)
 
-Course Content-
+<h2>Course Content- </h2>
 
-<h4> Introduction to Crypto and Cryptocurrencies </h4>
+<h4>1. Introduction to Crypto and Cryptocurrencies </h4>
 
 Welcome
 
@@ -21,7 +21,7 @@ Programming Assignment: Scrooge Coin
 
 
 
-<h4> How Bitcoin achieve Decentralization </h4>
+<h4>2. How Bitcoin achieve Decentralization </h4>
 
 Centralization vs. Decentralization
 
@@ -34,7 +34,7 @@ Incentives and Proof of Work
 Putting It All Together
 
 
-3. Mechanics of Bitcoin
+<h4>3. Mechanics of Bitcoin </h4>
 
 Bitcoin Transactions
 
@@ -49,7 +49,7 @@ The Bitcoin Network
 Limitations & Improvements
 
 
-4. How to Store and Use Bitcoins
+<h4>4. How to Store and Use Bitcoins </h4>
 
 How to Store and Use Bitcoins
 
@@ -69,7 +69,7 @@ Programming Assignment: Consensus from Trust
 
 
 
-5. Bitcoin Mining
+<h4>5. Bitcoin Mining </h4>
 
 The Task of Bitcoin Miners
 
@@ -82,7 +82,7 @@ Mining Pools
 Mining Incentives and Strategies
 
 
-6. Bitcoin and Anonymity
+<h4>6. Bitcoin and Anonymity </h4>
 
 Anonymity Basics
 
@@ -97,7 +97,7 @@ Zerocoin and Zerocash
 Tor and the Silk Road
 
 
-7. Community, Politics, and Regulation
+<h4>7. Community, Politics, and Regulation </h4>
 
 Consensus in Bitcoin
 
@@ -118,7 +118,7 @@ New York's BitLicense Proposal
 Programming Assignment: Block Chain
 
 
-8. Alternative Mining Puzzles
+<h4>8. Alternative Mining Puzzles </h4>
 
 Essential Puzzle Requirements
 
@@ -131,7 +131,7 @@ Nonoutsourceable Puzzles
 Proof-of-Stake "Virtual Mining"
 
 
-9. Bitcoin as a Platform
+<h4> 9. Bitcoin as a Platform </h4>
 
 Bitcoin as an Append-Only Log
 
@@ -144,7 +144,7 @@ Bitcoin As Randomness Source
 Prediction Markets & Real-World Data Feeds
 
 
-10. Altcoins and the Cryptocurrency Ecosystem
+<h4> 10. Altcoins and the Cryptocurrency Ecosystem </h4>
 
 Short History of Altcoins
 
@@ -156,7 +156,7 @@ Bitcoin-Backed Altcoins, "Side Chains"
 
 
 
-11. The Future of Bitcoin?
+<h4> 11. The Future of Bitcoin? </h4>
 
 The Block Chain as a Vehicle for Decentralization
 
