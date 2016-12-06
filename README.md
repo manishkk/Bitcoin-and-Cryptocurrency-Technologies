@@ -3,7 +3,7 @@ Bitcoin and Cryptocurrency Technologies by Princeton University (https://www.cou
 
 Course Content-
 
-1. Introduction to Crypto and Cryptocurrencies
+<h4> Introduction to Crypto and Cryptocurrencies </h4>
 
 Welcome
 
@@ -21,7 +21,7 @@ Programming Assignment: Scrooge Coin
 
 
 
-2. How Bitcoin achieve Decentralization
+<h4> How Bitcoin achieve Decentralization </h4>
 
 Centralization vs. Decentralization
 
