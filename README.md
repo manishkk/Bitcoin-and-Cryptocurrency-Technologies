@@ -15,7 +15,7 @@ Digital Signatures
 
 Public Keys as Identities
 
-A Simple Cryptocurrency
+A Simple Cryptocurrency (Goofy Coin & Scrooge Coin)
 
 Programming Assignment: Scrooge Coin
 
